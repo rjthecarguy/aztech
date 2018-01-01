@@ -5,17 +5,17 @@
  ========================================================================== */
 
 body {
-	background-color: grey;
+	background-color: white;
 }
 
 
 /* *************************************************************************
-  CSS for theme PHP 
+  CSS for theme PHP
 **************************************************************************** */
 
 .tm-navbar {
 	background-color: white;
-	margin-top:0px; 
+	margin-top:0px;
 	margin-bottom: 25px;
 }
 
